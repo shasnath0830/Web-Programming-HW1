@@ -1,0 +1,165 @@
+body {
+    background: linear-gradient(to right, red, lightyellow);
+    font-family: sans-serif;
+}
+.center {
+    text-align: center;
+}
+.center a {
+    font-size: 18pt;
+}
+img {
+    float: left;
+    position: relative;
+    margin-top: 50px;
+    width: auto;  
+    height: 350px;  
+    left: 10px;
+}
+h2 {
+    position: relative;
+    top: 50px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: navy;
+    font-size: 150%;
+    left: 75px;
+}
+#h2 {
+    position: relative;
+    top: -390px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: navy;
+    font-size: 150%;
+    left: 400px;
+}
+#header2 {
+    position: relative;
+    top: -835px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: navy;
+    font-size: 150%;
+    left: 800px;
+}
+#eduH {
+    position: relative;
+    top: -1213px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: navy;
+    font-size: 150%;
+    left: 1140px;
+}
+#JobH {
+    position: relative;
+    top: -1213px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: navy;
+    font-size: 150%;
+    left: 1150px;
+}
+#h3 {
+    position: relative;
+    right: 75px;
+    bottom: 10px;
+    font-size: 22px;
+    color: navy;
+}
+.table-container {
+    float: right;
+    top: 200px;
+}
+table {
+    position: relative;
+    float: left;
+    width: 120%;
+    border-collapse: collapse;
+    right: 110px;
+    border-spacing: 10px;
+    bottom: 10px;
+}
+th, td {
+    border: 3px solid rebeccapurple;
+    padding: 12px;
+    text-align: left;
+    
+}
+tr:nth-child(even) {
+    background-color: lightcoral;
+}
+.style {
+    position: relative;
+    top: -400px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: black;
+    font-size: 150%;
+    left: 400px;
+}
+.style2 {
+    position: relative;
+    top: -835px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: black;
+    font-size: 150%;
+    left: 20px;
+}
+.style3 {
+    position: relative;
+    top: -1230px;  
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    color: black;
+    font-size: 150%;
+    left: 1135px;
+}
+#s1 {
+    position: relative;
+    font-size: 20px;
+    top: 5px;
+}
+#s2 {
+    font-size: 18px;
+}
+#p2 {
+    position: relative;
+    left: 740px;
+}
+#p1 {
+    position: relative;
+    left: 10px;
+}
+#p3 {
+    position: relative;
+    top: -755px;
+    left: 370px;
+    font-size: 16px;
+    color: yellow;
+}
+a, .highlight {
+    color: navy;
+    text-decoration: none;
+    transition: color 0.3s ease;  
+}
+a:hover, .highlight:hover {
+    color: yellow;
+}
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+img {
+    border-radius: 15px;
+}
