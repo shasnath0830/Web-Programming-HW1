@@ -143,21 +143,32 @@ tr:nth-child(even) {
 }
 #p3 {
     position: relative;
-    top: -755px;
+    top: -735px;
     left: 370px;
     font-size: 16px;
     color: yellow;
+}
+#p4 {
+    position: relative;
+    font-size: 20px;
+    top: -1470px;
+    left: 840px;
+    color: blue;
 }
 a, .highlight {
     color: navy;
     text-decoration: none;
     transition: color 0.3s ease;  
 }
-a:hover, .highlight:hover {
+a:hover, .highlight:hover, .highlight2:hover {
     color: yellow;
 }
 .highlight {
     color: red;
+    font-weight: bold;
+}
+.highlight2 {
+    color: white;
     font-weight: bold;
 }
 img {
